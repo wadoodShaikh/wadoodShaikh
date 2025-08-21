@@ -1,20 +1,33 @@
-<h1 align="left">Hello 👋 I'm WADOOD SHAIKH</h1>
+# 👋 About Me  
 
-###
+Hi, I’m **Wadood Shaikh** 🚀  
+I’m a passionate **Full-Stack Developer** who loves building clean, modern, and user-friendly web applications. My focus is on writing code that not only works but also looks good under the hood.  
 
-<p align="left">I'm a Web Developer, from India</p>
+## 🔧 What I Do  
+- 🖥️ Frontend Development (React, JavaScript, Tailwind CSS)  
+- ⚙️ Backend Development (Node.js, Express, MongoDB, Next.js(in-progress))  
+- 🎨 Crafting elegant UI/UX that tells a story  
+- ☁️ Learning and exploring **Cloud & DevOps tools**  
 
-###
+## 🌱 Currently Exploring  
+- Advanced React patterns & optimization  
+- Full-stack project deployment (Vercel, GitHub Pages, etc.)  
+- Building polished projects that reflect real-world use cases  
 
-<h2 align="left">About me</h2>
+## 💡 Fun Facts  
+- 🧩 I love solving coding challenges and debugging like a detective  
+- 🎶 Music keeps me focused while coding  
+- 🌍 Always curious to learn new technologies  
 
-###
-
-<p align="left">✨ Creating bugs since 2006<br>📚 I'm currently learning various JS libraries<br>🎯 Goals: To be a software engineer who can make cool programs on a whim <br>🎲 Fun fact: If you don't know how to solve a problem, learn it.</p>
+## 📫 Connect With Me  
+- Portfolio: [My Website](https://wadood-portfolio.vercel.app/)  
+- GitHub: [github.com/wadoodshaikh](https://github.com/wadoodshaikh)  
+- LinkedIn: [Your LinkedIn](#)  
 
 ###
 
 <h2 align="left">I code with</h2>
+
 
 ###
 
