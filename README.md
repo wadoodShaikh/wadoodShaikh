@@ -1,7 +1,12 @@
-# 👋 About Me  
+<h1 align="left">Hi, I’m **Wadood Shaikh** 🚀</h1>
 
-Hi, I’m **Wadood Shaikh** 🚀  
+###
+
+# 👋 About Me  
+  
 I’m a passionate **Full-Stack Developer** who loves building clean, modern, and user-friendly web applications. My focus is on writing code that not only works but also looks good under the hood.  
+
+<p align="left">✨ Creating bugs since 2006<br>📚 I'm currently learning various JS libraries<br>🎯 Goals: To be a software engineer who can make cool programs on a whim <br>🎲 Fun fact: If you don't know how to solve a problem, learn it.</p>
 
 ## 🔧 What I Do  
 - 🖥️ Frontend Development (React, JavaScript, Tailwind CSS)  
