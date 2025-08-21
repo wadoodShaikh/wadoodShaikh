@@ -1,8 +1,8 @@
-<h1 align="left">Hello 👋 What's up?</h1>
+<h1 align="left">Hello 👋 I'm WADOOD SHAIKH</h1>
 
 ###
 
-<p align="left">I am Wadood Shaikh and I'm a Web Developer, from India</p>
+<p align="left">I'm a Web Developer, from India</p>
 
 ###
 
