@@ -7,11 +7,6 @@ I’m a passionate **Full-Stack Developer** who loves building clean, modern, an
 📞Phone Number - +91 9370149940<br>
 📧Email - wadoodshaikh610@gmail.com<br></p>
 
-## 🔧 What I Do  
-- 🖥️ Frontend Development (React, JavaScript, Tailwind CSS)  
-- ⚙️ Backend Development (Node.js, Express, MongoDB, Next.js(in-progress))  
-- 🎨 Crafting elegant UI/UX that tells a story  
-
 ## 📫 Connect With Me  
 - Portfolio: [Wadood Shaikh](https://wadood-portfolio.vercel.app/)  
 - GitHub: [wadoodshaikh](https://github.com/wadoodshaikh)  
