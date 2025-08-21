@@ -3,7 +3,7 @@
 ###  
 I’m a passionate **Full-Stack Developer** who loves building clean, modern, and user-friendly web applications. My focus is on writing code that not only works but also looks good under the hood.  
 
-<p align="left">✨ Creating bugs since 2006<br>📚 I'm currently learning various JS libraries<br>🎯 Goals: To be a software engineer who can make cool programs on a whim <br>🎲 Fun fact: If you don't know how to solve a problem, learn it.<br>🗺 Region - Maharastra, India<br>
+<p align="left">💻 Open to work!<br>🗺 Region - Maharastra, India<br>
 📞Phone Number - +91 9370149940<br>
 📧Email - wadoodshaikh610@gmail.com<br></p>
 
@@ -11,26 +11,15 @@ I’m a passionate **Full-Stack Developer** who loves building clean, modern, an
 - 🖥️ Frontend Development (React, JavaScript, Tailwind CSS)  
 - ⚙️ Backend Development (Node.js, Express, MongoDB, Next.js(in-progress))  
 - 🎨 Crafting elegant UI/UX that tells a story  
-- ☁️ Learning and exploring **Cloud & DevOps tools**  
-
-## 🌱 Currently Exploring  
-- Advanced React patterns & optimization  
-- Full-stack project deployment (Vercel, GitHub Pages, etc.)  
-- Building polished projects that reflect real-world use cases  
-
-## 💡 Fun Facts  
-- 🧩 I love solving coding challenges and debugging like a detective  
-- 🎶 Music keeps me focused while coding  
-- 🌍 Always curious to learn new technologies  
 
 ## 📫 Connect With Me  
-- Portfolio: [My Website](https://wadood-portfolio.vercel.app/)  
-- GitHub: [github.com/wadoodshaikh](https://github.com/wadoodshaikh)  
-- LinkedIn: [Your LinkedIn](#)  
+- Portfolio: [Wadood Shaikh](https://wadood-portfolio.vercel.app/)  
+- GitHub: [wadoodshaikh](https://github.com/wadoodshaikh)  
+- LinkedIn: [Wadood Shaikh](https://www.linkedin.com/in/wadood-shaikh/)  
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Tech Stack</h2>
 
 
 ###
@@ -55,6 +44,8 @@ I’m a passionate **Full-Stack Developer** who loves building clean, modern, an
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
 </div>
 
