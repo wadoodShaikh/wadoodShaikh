@@ -8,7 +8,6 @@ I’m a passionate **Full-Stack Developer** who loves building clean, modern, an
 📧Email - wadoodshaikh610@gmail.com<br></p>
 
 ## 📫 Connect With Me  
-- Portfolio: [Wadood Shaikh](https://wadood-portfolio.vercel.app/)  
 - GitHub: [wadoodshaikh](https://github.com/wadoodshaikh)  
 - LinkedIn: [Wadood Shaikh](https://www.linkedin.com/in/wadood-shaikh/)  
 
